@@ -114,5 +114,10 @@
       }
     ]
   },
-  "jsRules": { "no-empty": true }
+  "jsRules": { "no-empty": true },
+  "template-accessibility-label-for": true,
+  "template-accessibility-alt-text": true,
+  "template-accessibility-valid-aria": true,
+  "template-accessibility-table-scope": true,
+  "template-accessibility-tabindex-no-positive": true
 }
